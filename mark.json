@@ -1,0 +1,19 @@
+{
+  "Students": [
+    {
+      "Rollnum": 1,
+      "Name": "Timo",
+      "TotalMarks": 400
+    },
+    {
+      "Rollnum": 2,
+      "Name": "Kai",
+      "TotalMarks": 512
+    },
+    {
+      "Rollnum": 3,
+      "Name": "Austin",
+      "TotalMarks": 352
+    }
+  ]
+}
