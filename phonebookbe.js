@@ -34,6 +34,7 @@ const requestlogger = (request, response, next) => {
 };
 app.use(express.json());
 app.use(requestlogger);
+app.use(express.static("build"));
 
 app.get("/", (req, res) => {
   res.send("<h1>Hello<h1/>");
